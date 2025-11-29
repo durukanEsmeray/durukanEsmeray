@@ -74,8 +74,8 @@
 
 ## 📬 Contact
 
-- 📧 **Mail:** your-email@example.com  
-- 💼 **LinkedIn:** your-linkedin-url  
+- 📧 **Mail:** durukanesmeray@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/durukanesmeray/
 
 ---
 
